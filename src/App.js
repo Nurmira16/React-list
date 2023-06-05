@@ -4,25 +4,25 @@ function App() {
   const expenses = [
     {
       id: "el",
-      title: "Toilet Paper",
+      title: "Udemy courses",
       amount: 94.12,
       date: new Date(2020, 2, 20),
     },
     {
       id: "el2",
-      title: "Car Insurance",
+      title: "Coursera",
       amount: 94.12,
       date: new Date(2020, 2, 20),
     },
     {
       id: "el3",
-      title: "Kareta",
+      title: "FreeCode",
       amount: 94.12,
       date: new Date(2020, 2, 20),
     },
     {
       id: "el3",
-      title: "Kareta",
+      title: "Bootcamp",
       amount: 94.12,
       date: new Date(2020, 2, 20),
     },
